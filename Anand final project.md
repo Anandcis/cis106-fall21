@@ -31,7 +31,7 @@ THe first step is to be connect raspberry pi with your monitor. so first step is
 
    * This SSH client use for the communicate with the raspberry pi .
 
-![Enable SSH](../cis106-fall21/Images/final%20projectssh%20enable%20system.jpg)
+![Enable SSH](../cis106-fall21/Images/final%20projectssh%20enable%20system.png)
 
 * Now, you need to setup the putty. you need a IP address in the field. so, first you know your raspberry  IP address  by this way:  you can move your mouse  over the  right side   at the top side  network icon. you can look your IP address there.   so, you open putty configuration and enter your IP address in it and select port at "22".   Then click it open the putty will ask a username and password.   
 * The default login details for pi  username are "Pi" and password is "raspberry".
@@ -93,7 +93,7 @@ Open any  Web browser  and search this URL in the address bar:
 
 http:// local host or your ip address 
 
-![Apache Server](../cis106-fall21/Images/apache%20webserver.jpg)
+![Apache Server](../cis106-fall21/Images/apache%20webserver.png)
 
 
 
